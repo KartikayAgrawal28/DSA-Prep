@@ -10,6 +10,7 @@
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
@@ -25,6 +26,7 @@
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |
