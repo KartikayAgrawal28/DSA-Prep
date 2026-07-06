@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 ## Sorting
 |  |
