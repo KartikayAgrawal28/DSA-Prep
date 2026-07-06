@@ -15,6 +15,7 @@
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -100,6 +101,7 @@
 | [0137-single-number-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
+| [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Sorting
 |  |
