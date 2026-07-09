@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
 ## Game Theory
@@ -111,6 +113,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
