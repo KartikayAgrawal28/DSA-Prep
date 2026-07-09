@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0137-single-number-ii) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
