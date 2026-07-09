@@ -21,6 +21,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -102,6 +106,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
