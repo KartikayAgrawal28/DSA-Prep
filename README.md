@@ -32,6 +32,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -118,6 +119,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 ## String
 |  |
