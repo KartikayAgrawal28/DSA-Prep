@@ -1,22 +1,21 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        if (prices == null || prices.length <= 1) {
-            return 0;
-        }
-        int mP = 0; // maxProfit
-        int minPrice = prices[0]; // minProfit
-        for (int i = 1; i < prices.length; i++) {
-            if (prices[i] < minPrice) {
-                minPrice = prices[i];
+
+        int bestBuy = prices[0];
+
+        int maxProfit = 0;
+
+        for(int i=0;i<prices.length;i++){
+
+            if(prices[i]>bestBuy){
+
+            maxProfit = Math.max(maxProfit,prices[i]-bestBuy);
+
             }
-            else {
-                int cP = prices[i] - minPrice; // currentProfit
-                if (cP > mP) {
-                    mP = cP;
-                }
-            }
+
+         bestBuy = Math.min(bestBuy,prices[i]);
+
         }
-        
-        return mP;
+     return   maxProfit;
     }
 }
