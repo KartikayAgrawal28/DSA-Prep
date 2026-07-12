@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
@@ -121,6 +122,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0015-3sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
@@ -170,4 +173,12 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
