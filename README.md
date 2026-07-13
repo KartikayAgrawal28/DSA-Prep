@@ -190,4 +190,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
