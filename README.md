@@ -20,6 +20,7 @@
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
@@ -77,6 +78,7 @@
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Game Theory
@@ -155,6 +157,7 @@
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
