@@ -29,6 +29,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
@@ -39,6 +40,7 @@
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -52,6 +54,7 @@
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
