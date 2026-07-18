@@ -25,6 +25,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -56,6 +57,7 @@
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -222,6 +224,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3658-gcd-of-odd-and-even-sums) |
