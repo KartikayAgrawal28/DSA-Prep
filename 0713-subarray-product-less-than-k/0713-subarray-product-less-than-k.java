@@ -1,11 +1,14 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
-        int left=0, count=0, prod=1;
+        int count=0, prod=1;
         int n = nums.length;
 
         // check base case 
-        if(k<=0) return 0;  
-    
+        if(k<=1) return 0;  
+        /* 
+
+        Aproach 1 --> BRUTE FORCE O(2N)
+
         for(int i=0;i<n;i++){
             
             prod=1;
@@ -19,6 +22,21 @@ class Solution {
                     break;
                 }
             }
+        }*/
+
+
+        // APPROACH 2 ----> OPTIMISED
+
+        int l=0;
+
+        for(int r=0 ; r<n ; r++){
+            prod *= nums[r];
+
+            while(prod>=k){
+                prod /= nums[l];
+                l++;
+            }
+            count += r - l + 1;
         }
         return count;
     }
