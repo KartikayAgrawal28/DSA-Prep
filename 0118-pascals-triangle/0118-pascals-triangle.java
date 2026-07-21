@@ -1,22 +1,21 @@
 class Solution {
-    public List<List<Integer>> generate(int numRows) {
+    public List<List<Integer>> generate(int n) {
+        ArrayList<List<Integer>> pascal = new ArrayList<>();
 
-        List<List<Integer>> pascal = new ArrayList<List<Integer>>();
-
-        List<Integer> row = new ArrayList<>();
-
-        for (int i = 0; i < numRows; i++) {
-
-            row.add(0, 1);
-            for (int j = 1; j < row.size() - 1; j++) {
-
-                row.set(j, row.get(j) + row.get(j + 1)); // row.set(index, value)
+        for(int i=0;i<n; i++){
+        
+            ArrayList<Integer> row = new ArrayList<>();
+        
+            int val=1;
+        
+            for (int j=0; j<=i;j++){
+                row.add(val);
+                val=val * (i-j)/(j+1);
             }
-            pascal.add(new ArrayList<>(row));
-
+        
+            pascal.add(row);
         }
-
+        
         return pascal;
-
     }
 }
