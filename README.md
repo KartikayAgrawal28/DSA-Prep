@@ -17,6 +17,7 @@
 | [0260-single-number-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
