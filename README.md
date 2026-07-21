@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0137-single-number-ii) |
@@ -44,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
