@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
@@ -204,6 +206,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -257,5 +260,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
