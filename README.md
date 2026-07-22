@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -183,6 +184,7 @@
 | [0015-3sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
