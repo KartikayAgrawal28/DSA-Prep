@@ -1,21 +1,22 @@
 class Solution {
     public int maxProfit(int[] prices) {
+        int maxProfit=0;
+        int left=0;  // left = buying date   && right = selling date 
+        int profit=0;
+        for(int right=1 ; right<prices.length ; right++){
+            
+            profit = prices[right] - prices[left];
+            maxProfit = Math.max(maxProfit , profit );
+            
+            //shrrinking of window
+            while(prices[right]<prices[left]){
 
-        int bestBuy = prices[0];
-
-        int maxProfit = 0;
-
-        for(int i=0;i<prices.length;i++){
-
-            if(prices[i]>bestBuy){
-
-            maxProfit = Math.max(maxProfit,prices[i]-bestBuy);
+                left++;
 
             }
-
-         bestBuy = Math.min(bestBuy,prices[i]);
-
         }
-     return   maxProfit;
+        return maxProfit;
+
+
     }
 }
