@@ -1,11 +1,11 @@
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
 
-        int n = nums.length;
+        
 
-        if (n <= 2)
-            return n;
+        if (nums.length <= 2)
+            return nums.length;
 
-        return Integer.highestOneBit(n) << 1;
+        return Integer.highestOneBit(nums.length) << 1;
     }
 }
