@@ -1,22 +1,22 @@
 class Solution {
     public int maxProduct(int n) {
-        int first = 0;
-        int second = 0;
+        int max1 = 0;
+        int max2 = 0;
 
         while (n > 0) {
             int digit = n % 10;
 
-            if (digit > first) {
-                second = first;
-                first = digit;
+            if (digit > max1) {
+                max2 = max1;
+                max1 = digit;
             } 
-            else if (digit > second) {
-                second = digit;
+            else if (digit > max2) {
+                max2 = digit;
             }
 
             n /= 10;
         }
 
-        return first * second;
+        return max1 * max2;
     }
 }
