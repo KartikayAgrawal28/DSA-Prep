@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
