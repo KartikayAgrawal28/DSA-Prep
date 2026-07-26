@@ -23,6 +23,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
@@ -69,6 +70,7 @@
 | [0326-power-of-three](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -202,6 +204,7 @@
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
