@@ -72,6 +72,7 @@
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,6 +93,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -113,6 +115,7 @@
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
