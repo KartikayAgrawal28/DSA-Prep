@@ -77,6 +77,7 @@
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -277,6 +278,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -290,6 +292,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
