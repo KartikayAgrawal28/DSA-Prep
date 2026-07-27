@@ -3,19 +3,17 @@ class Solution {
         int ans = 0;
         int left = 0;
 
-        HashSet<Character> set = new HashSet<>();
+        HashMap<Character,Integer> map = new HashMap<>();
 
         for (int right = 0; right < s.length(); right++) {
-
             char ch = s.charAt(right);
 
-            while (set.contains(ch)) {
-                set.remove(s.charAt(left));
-                left++;
+            // if char already seen, move left pointer after its last occurrence
+            if (map.containsKey(ch)) {
+                left = Math.max(left, map.get(ch) + 1);
             }
 
-            set.add(ch);
-
+            map.put(ch, right);
             ans = Math.max(ans, right - left + 1);
         }
 
