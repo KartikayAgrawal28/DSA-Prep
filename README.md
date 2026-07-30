@@ -80,6 +80,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -249,6 +250,7 @@
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -267,6 +269,7 @@
 | [0011-container-with-most-water](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
