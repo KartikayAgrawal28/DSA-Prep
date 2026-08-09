@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -61,6 +62,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -81,6 +83,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
@@ -280,6 +284,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -362,4 +367,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
