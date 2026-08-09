@@ -27,6 +27,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
