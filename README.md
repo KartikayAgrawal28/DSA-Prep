@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
@@ -204,6 +205,7 @@
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
