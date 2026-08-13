@@ -43,6 +43,7 @@
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -283,6 +284,7 @@
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -375,6 +377,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -402,4 +405,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
