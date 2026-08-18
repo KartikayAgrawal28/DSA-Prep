@@ -41,6 +41,7 @@
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
