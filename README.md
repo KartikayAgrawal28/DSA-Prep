@@ -279,6 +279,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 ## String
@@ -428,5 +429,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
