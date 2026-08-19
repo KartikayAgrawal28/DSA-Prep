@@ -38,6 +38,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
@@ -223,6 +224,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -244,6 +246,7 @@
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -323,6 +326,7 @@
 | [0011-container-with-most-water](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
