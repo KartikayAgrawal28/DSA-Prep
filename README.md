@@ -148,6 +148,7 @@
 | [0027-remove-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
@@ -455,6 +457,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0206-reverse-linked-list) |
@@ -468,5 +471,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
