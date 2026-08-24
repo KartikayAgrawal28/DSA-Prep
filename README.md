@@ -90,6 +90,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0189-rotate-array) |
@@ -304,6 +305,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
