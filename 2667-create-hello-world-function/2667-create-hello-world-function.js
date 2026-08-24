@@ -4,8 +4,7 @@
 var createHelloWorld = function() {
     
     return function(...args) {
-        let hi = "Hello World";
-        return hi;
+        return "Hello World";
     }
 };
 
