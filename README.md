@@ -94,6 +94,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0172-factorial-trailing-zeroes) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
@@ -328,6 +330,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
