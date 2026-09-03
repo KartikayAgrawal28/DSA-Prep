@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0260-single-number-iii) |
@@ -101,6 +102,7 @@
 | [0069-sqrtx](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0342-power-of-four) |
@@ -408,6 +410,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
@@ -419,6 +422,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
@@ -519,4 +523,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0014-longest-common-prefix) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
