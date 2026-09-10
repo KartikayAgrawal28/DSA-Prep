@@ -327,6 +327,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3310-remove-methods-from-project) |
@@ -547,4 +548,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0204-count-primes) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
