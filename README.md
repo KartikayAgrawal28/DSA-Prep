@@ -185,6 +185,7 @@
 | [0283-move-zeroes](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0876-middle-of-the-linked-list) |
@@ -361,6 +362,7 @@
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0940-distinct-subsequences-ii) |
