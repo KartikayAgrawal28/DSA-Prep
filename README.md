@@ -105,6 +105,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
+| [3980-minimum-operations-to-transform-binary-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -396,6 +397,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3980-minimum-operations-to-transform-binary-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3980-minimum-operations-to-transform-binary-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
