@@ -44,6 +44,7 @@
 | [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1872-stone-game-viii) |
@@ -94,6 +95,7 @@
 | [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1872-stone-game-viii) |
@@ -163,6 +165,7 @@
 | [0633-sum-of-square-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3312-sorted-gcd-pair-queries) |
@@ -285,6 +288,7 @@
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -492,6 +496,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
