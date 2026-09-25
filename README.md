@@ -230,6 +230,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -297,6 +298,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -348,6 +350,7 @@
 | [0389-find-the-difference](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
+| [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -394,6 +397,7 @@
 | [0680-valid-palindrome-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -506,6 +510,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -536,6 +541,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
