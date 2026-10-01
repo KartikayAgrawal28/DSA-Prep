@@ -89,6 +89,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3904-smallest-stable-index-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -496,6 +499,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
