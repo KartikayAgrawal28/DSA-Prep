@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -398,6 +399,7 @@
 | [0014-longest-common-prefix](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
@@ -525,6 +527,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -608,6 +611,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
