@@ -149,6 +149,7 @@
 | [1927-sum-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2029-stone-game-ix) |
+| [2396-strictly-palindromic-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2396-strictly-palindromic-number) |
 | [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -221,6 +222,7 @@
 | [0905-sort-array-by-parity](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -656,4 +658,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1401-circle-and-rectangle-overlapping) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
