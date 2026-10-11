@@ -145,6 +145,7 @@
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1688-count-of-matches-in-tournament](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -495,6 +496,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3498-reverse-degree-of-a-string) |
