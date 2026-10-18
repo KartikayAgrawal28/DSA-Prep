@@ -45,6 +45,7 @@
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -110,6 +111,7 @@
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -147,6 +149,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1872-stone-game-viii) |
@@ -257,6 +260,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -494,6 +498,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -540,6 +545,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2928-distribute-candies-among-children-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2928-distribute-candies-among-children-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -671,10 +677,12 @@
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -689,4 +697,16 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
