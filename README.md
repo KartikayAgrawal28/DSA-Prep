@@ -93,6 +93,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -138,6 +139,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Math
