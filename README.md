@@ -349,6 +349,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0160-intersection-of-two-linked-lists) |
@@ -469,6 +470,7 @@
 | [0020-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0242-valid-anagram) |
@@ -632,6 +634,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0904-fruit-into-baskets) |
