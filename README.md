@@ -495,6 +495,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -578,6 +579,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1688-count-of-matches-in-tournament](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/3867-sum-of-gcd-of-formed-pairs) |
