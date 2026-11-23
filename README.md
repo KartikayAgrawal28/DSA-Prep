@@ -43,6 +43,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
@@ -173,6 +174,7 @@
 | [0877-stone-game](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1510-stone-game-iv) |
@@ -539,6 +541,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1872-stone-game-viii) |
@@ -800,4 +803,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/KartikayAgrawal28/LeetcodeSolve/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
